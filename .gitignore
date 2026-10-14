@@ -1,0 +1,26 @@
+
+# Python environments
+.venv/
+.venv-ae/
+
+# Nested repository clone
+ResiNet-IDAM/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+
+# Original datasets
+data/raw/
+
+# Trained models and generated thresholds
+models/
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
