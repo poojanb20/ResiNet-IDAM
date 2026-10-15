@@ -24,3 +24,11 @@ models/
 .vscode/
 .DS_Store
 Thumbs.db
+
+# IT datasets and generated reports
+data/it/
+dataset/raw/
+reports/it/
+
+# Local backup
+app_backup.py
